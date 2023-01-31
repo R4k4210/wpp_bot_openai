@@ -1,18 +1,18 @@
 # wpp_bot_openai
 Simple POC for whatsapp bot and OpenAI.
 
-# Install packages
+## Install packages
 npm install
 
-# Start nodemon
+## Start nodemon
 npm start
 
-# OpenAI API KEY
+## OpenAI API KEY
 Add OPENAI_API_KEY=<your api key> to .env file.
 
 Create your API KEY here: https://platform.openai.com/
 
-# Commands list
+## Commands list
 - !ai_help
 - !ai 
 - !ai_art
