@@ -8,7 +8,7 @@ npm install
 npm start
 
 ## OpenAI API KEY
-Add OPENAI_API_KEY=<your api key> to .env file.
+Add OPENAI_API_KEY=your_api_key to .env file.
 
 Create your API KEY here: https://platform.openai.com/
 
